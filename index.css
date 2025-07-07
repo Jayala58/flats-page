@@ -1,0 +1,129 @@
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-card {
+    background-image: linear-gradient(to right, #70e1f5, #ffd194);
+    padding: 60px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.home-head {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 18px;
+}
+
+.home-para {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.home-button {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 9px;
+    background-color: #f19116;
+    width: 70px;
+    height: 25px;
+    border-radius: 3px;
+    border-width: 0px;
+}
+
+.list-container {
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.list-card {
+    background-color: white;
+    border-radius: 7px;
+}
+
+.list-image {
+    width: 80px;
+    height: 130px;
+    background-size: cover;
+}
+
+.list-head {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.list-para {
+    color: #6c6b70;
+    font-family: "Bree Serif";
+    font-size: 10px;
+}
+
+.flat-container {
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+}
+
+.flat-image {
+    width: 100vw;
+    height: 40vh;
+}
+
+.loc-image {
+    height: 30px;
+    width: 30px;
+}
+
+.flat-des {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.confirm-container {
+    background-image: linear-gradient(to right, #70e1f5, #ffd194);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 30px;
+}
+
+.cnf-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.cnf-head {
+    color: Black;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.confirm-container2 {
+    background-image: linear-gradient(to top, #fc00ff, #00dbde);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 30px;
+}
+
+.color-link {
+    color: white;
+}
+
+.confirm-container1 {
+    background-image: linear-gradient(to top, #ee9ca7, #ffdde1);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 30px;
+}
